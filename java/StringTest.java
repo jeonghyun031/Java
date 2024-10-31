@@ -1,4 +1,4 @@
-public class String Test {
+public class StringTest {
     public static void main(String[] args) {
         String str1 = "아! 대한민국 ";
         String str2 = new String("Korea");
